@@ -8,4 +8,4 @@
 
 macro-f1 score 약 0.63으로 상위 7.7%의 성적을 기록(28/360)
 
-자세한 내용은 [코드](https://github.com/hwii-kk/dacon-know/tree/main/code)와 결과보고서를 참고해주세요.
+자세한 내용은 [코드](https://github.com/hwii-kk/dacon-know/tree/main/code)와 [결과보고서](https://github.com/hwii-kk/dacon-know/blob/main/know%20%EC%A7%81%EC%97%85%20%EC%B6%94%EC%B2%9C%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.pdf)를 참고해주세요.
